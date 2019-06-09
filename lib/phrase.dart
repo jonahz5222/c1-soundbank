@@ -3,6 +3,7 @@ class Phrase {
   String title;
   String soundclip;
 
+
   Phrase({this.speaker,this.title,this.soundclip});
 }
 
