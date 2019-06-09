@@ -182,7 +182,12 @@ class _MyHomePageState extends State<MyHomePage> {
           
         ],
 
-        title: new Text(widget.title)
+        title: new FlatButton(
+          child: Image.asset("lib/images/logo.png"),
+          onPressed: () {
+            _player.play("richi.mp3");
+          },
+        )
       ),
 
       body: Center(
