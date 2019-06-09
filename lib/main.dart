@@ -46,6 +46,95 @@ class _MyHomePageState extends State<MyHomePage> {
     /*
       Add Phrases to Array Here
     */
+    Phrase(
+      title: "Yeah Baby!",
+      speaker: Speaker.sammi,
+      soundclip: "yeahBaby.mp3"
+    ),
+    Phrase(
+      title: "Venture",
+      speaker: Speaker.jenni,
+      soundclip: "happierWithVenture.mp3"
+    ),
+    Phrase(
+      title: "Gary Gary Gary",
+      speaker: Speaker.sammi,
+      soundclip: "garyGaryGary.mp3"
+    ),
+    Phrase(
+      title: "Pina Coladas?",
+      speaker: Speaker.charli,
+      soundclip: "pinaColadas.mp3"
+    ),
+    
+    Phrase(
+      title: "Woo! That's Good!",
+      speaker: Speaker.sammi,
+      soundclip: "wooThatsGood.mp3"
+    ),
+    Phrase(
+      title: "Simple, Smart",
+      speaker: Speaker.sammi,
+      soundclip: "simpleSmartChoices.mp3"
+    ),
+    Phrase(
+      title: "Giddyup",
+      speaker: Speaker.sammi,
+      soundclip: "giddyup.mp3"
+    ),
+    
+    Phrase(
+      title: "Wallet",
+      speaker: Speaker.jenni,
+      soundclip: "jenniWIYW.mp3"
+    ),
+    
+    Phrase(
+      title: "Turtle Rat",
+      speaker: Speaker.charli,
+      soundclip: "turtleRat.mp3"
+    ),
+    Phrase(
+      title: "Good, Bad, and Ugly",
+      speaker: Speaker.sammi,
+      soundclip: "goodBadUgly.mp3"
+    ),
+    Phrase(
+      title: "Cantaloupe",
+      speaker: Speaker.charli,
+      soundclip: "deerloupCantaloup.mp3"
+    ),
+    Phrase(
+      title: "NSFW Wallet",
+      speaker: Speaker.sammi,
+      soundclip: "wiywNSFW.mp3"
+    ),
+    Phrase(
+      title: "Champion!",
+      speaker: Speaker.sammi,
+      soundclip: "champion.mp3"
+    ),
+    Phrase(
+      title: "Sucker",
+      speaker: Speaker.charli,
+      soundclip: "potterySuck.mp3"
+    ),
+    Phrase(
+      title: "Velvety",
+      speaker: Speaker.charli,
+      soundclip: "velvety.mp3"
+    ),
+    Phrase(
+      title: "Super Easy",
+      speaker: Speaker.sammi,
+      soundclip: "superEasy.mp3"
+    ),
+    Phrase(
+      title: "My Bad :(",
+      speaker: Speaker.sammi,
+      soundclip: "myBad.mp3"
+    ),
+    
         
     ];
 
